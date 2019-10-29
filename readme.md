@@ -2,6 +2,9 @@
 
 This is a simple web crawler meant toextract payroll data from OpenPayroll.
 
+## Dependencies ##
+* Scrapy `pip install scrapy`
+
 ## How to run: ##
 Running the crawler is simple. 
 * Open crawler.py
